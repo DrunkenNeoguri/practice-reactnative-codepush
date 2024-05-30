@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">reactnativepractice</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">ObNptqLwrmsAYRPkvxMbjBpOtdor2el7RiTao</string>
+    <string name="app_name">react-native-practice-project</string>
 </resources>
